@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm David and I'm learning software engineering.
+
 <!--
 **dav94sal/dav94sal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
