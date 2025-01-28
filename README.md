@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <p>Hey Ya'll! 👋</p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZzV2Nnh1M2M3ODcwdjI1ZXZiNmltZDFpdWxtMWt6YTVrOXg5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <div id="badges">
     <a href="https://github.com/dav94sal">
