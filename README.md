@@ -1,11 +1,16 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZzV2Nnh1M2M3ODcwdjI1ZXZiNmltZDFpdWxtMWt6YTVrOXg5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <div id="badges">
-    <img src="https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />    
+    <a href="https://github.com/dav94sal">
+      <img src="https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/david-salas-59a5588a/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />    
+    </a>
   </div>
 </div>
 
+---
 
 ### :woman_technologist: About Me :
 
@@ -18,18 +23,65 @@ I also love and studied music in college which has allowed me to not only work i
 that often strengthened my teams. The next step in my carreer is to combine my curiosity of technology and passion for music by learning gaming 🎮 engines and 
 ultimately to write and implement music in video games.
 
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
-- React
-- Redux
-- Express
-- Sequelize
-- Javascript
-- node.js
-- Flask
-- WTForms
-- SQLAlchemy
-- Python
-- CSS3
-- HTML5
-- GitHub
+<div>
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' 
+    width='50' title='React' height='50' alt='React'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' 
+    width='50' title='Redux' height='50' alt='React'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' 
+    width='50' title='JavaScript' height='50' alt='JavaScript'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' 
+    width='50' title='Python' height='50' alt='Python'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' 
+    width='50' title='HTML5' height='50' alt='HTML5'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' 
+    width='50' title='CSS3' height='50' alt='CSS3'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg' 
+    width='50' title='Sequelize' height='50' alt='Sequelize'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' 
+    width='50' title='Nodejs' height='50' alt='Nodejs'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg' 
+    width='50' title='VSCode' height='50' alt='VSCode'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' 
+    width='50' title='Git' height='50' alt='GitHub'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg' 
+    width='50' title='GitHub' height='50' alt='GitHub'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg' 
+    width='50' title='Express' height='50' alt='Express'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg' 
+    width='50' title='Flask' height='50' alt='Flask'
+  />
+  <img 
+    src='https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg' 
+    width='50' title='sqlalchemy' height='50' alt='sqlalchemy' 
+  />
+</div>
