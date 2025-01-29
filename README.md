@@ -2,14 +2,17 @@
   <p>Hey Ya'll! 👋</p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZzV2Nnh1M2M3ODcwdjI1ZXZiNmltZDFpdWxtMWt6YTVrOXg5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <div id="badges">
-    <a href="https://github.com/dav94sal" text-decoration="unset">
+    <a href="https://github.com/dav94sal" >
       <img src="https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/david-salas-59a5588a/" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />    
     </a>
     <a href="https://dav94sal.github.io/" >
-      <img src="https://img.shields.io/badge/Portfolio%20-%20gray" />    
+      <img src="https://img.shields.io/badge/Portfolio-gray" />    
+    </a>
+    <a href="https://docs.google.com/document/d/1VITxa2On_M1Keqnx5sKTq8aCFyVx_EugJnJYi_Sad9w/edit?usp=sharing" >
+      <img src="https://img.shields.io/badge/Resume-blue" />    
     </a>
 <!--     <style>a { border-bottom: 0; }</style> -->
   </div>
@@ -19,14 +22,20 @@
 
 ### :woman_technologist: About Me :
 
-I'm a software developer 💻 with a background in music 🎵 and Audio Visual 🎧 (AV) technologies. My last project as an AV Technician was for Apple in Austin, TX.
-My team installed hundreds of AV systems ranging from simple conference rooms to high profile "War Rooms" and even a large cafeteria! I commissioned those 
-same systems by programming amplifiers, speakers, Digital Signal Processors (DSPs), and displays to verify the integrity of the systems installations. 
-Going through this process fascinated me to the inner workings of the software I was using to program. So, I learned to code by studying Full Stack Web 
-Development 👩‍💻 at App Academy, where I built multiple full stack projects with React and Redux in the frontend and Python or Javascript in the backend. 
-I also love and studied music in college which has allowed me to not only work in many teams over many years but also exposed a natural mentor-like demeanor
-that often strengthened my teams. The next step in my carreer is to combine my curiosity of technology and passion for music by learning gaming 🎮 engines and 
-ultimately to write and implement music in video games.
+<div id=about align="center">
+  <p>
+    I'm a software developer 💻 with a background in music 🎵 and Audio Visual 🎧 (AV) technologies. My last project as an AV Technician was for Apple in Austin, TX.
+    My team installed hundreds of AV systems ranging from simple conference rooms to high profile "War Rooms" and even a large cafeteria! I commissioned those 
+    same systems by programming amplifiers, speakers, Digital Signal Processors (DSPs), and displays to verify the integrity of the systems installations. 
+    Going through this process fascinated me to the inner workings of the software I was using to program. So, I learned to code by studying Full Stack Web 
+    Development 👩‍💻 at App Academy, where I built multiple full stack projects with React and Redux in the frontend and Python or Javascript in the backend.
+  </p>
+  <p>
+    I also love and studied music in college which has allowed me to not only work in many teams over many years but also exposed a natural mentor-like demeanor
+    that often strengthened my teams. The next step in my carreer is to combine my curiosity of technology and passion for music by learning gaming 🎮 engines and 
+    ultimately to writing and implementing music in video games.
+  </p>
+</div>
 
 ---
 
