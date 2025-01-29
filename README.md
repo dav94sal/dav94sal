@@ -2,9 +2,9 @@
   <p>Hey Ya'll! 👋</p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZzV2Nnh1M2M3ODcwdjI1ZXZiNmltZDFpdWxtMWt6YTVrOXg5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <div id="badges">
-    <a href="https://github.com/dav94sal" >
+<!--     <a href="https://github.com/dav94sal" >
       <img src="https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white"/>
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/david-salas-59a5588a/" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />    
     </a>
@@ -14,7 +14,6 @@
     <a href="https://docs.google.com/document/d/1VITxa2On_M1Keqnx5sKTq8aCFyVx_EugJnJYi_Sad9w/edit?usp=sharing" >
       <img src="https://img.shields.io/badge/Resume-blue" />    
     </a>
-<!--     <style>a { border-bottom: 0; }</style> -->
   </div>
 </div>
 
