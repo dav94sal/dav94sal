@@ -2,12 +2,16 @@
   <p>Hey Ya'll! 👋</p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZnZzV2Nnh1M2M3ODcwdjI1ZXZiNmltZDFpdWxtMWt6YTVrOXg5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
   <div id="badges">
-    <a href="https://github.com/dav94sal">
+    <a href="https://github.com/dav94sal" text-decoration="unset">
       <img src="https://img.shields.io/badge/GitHub-gray?logo=github&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/david-salas-59a5588a/">
+    <a href="https://www.linkedin.com/in/david-salas-59a5588a/" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />    
     </a>
+    <a href="https://dav94sal.github.io/" >
+      <img src="https://img.shields.io/badge/Portfolio%20-%20gray" />    
+    </a>
+<!--     <style>a { border-bottom: 0; }</style> -->
   </div>
 </div>
 
