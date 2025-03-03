@@ -22,17 +22,27 @@
 ### :woman_technologist: About Me :
 
 <div id=about align="center">
+  <h3>Professional<h3/>
   <p>
     I'm a software developer 💻 with a background in music 🎵 and Audio Visual 🎧 (AV) technologies. My last project as an AV Technician was for Apple in Austin, TX.
     My team installed hundreds of AV systems ranging from simple conference rooms to high profile "War Rooms" and even a large cafeteria! I commissioned those 
     same systems by programming amplifiers, speakers, Digital Signal Processors (DSPs), and displays to verify the integrity of the systems installations. 
-    Going through this process fascinated me to the inner workings of the software I was using to program. So, I learned to code by studying Full Stack Web 
+    Going through this process fascinated me to the inner workings of the software I was using to program. <br />
+    <br />
+    So, I learned to code by studying Full Stack Web 
     Development 👩‍💻 at App Academy, where I built multiple full stack projects with React and Redux in the frontend and Python or Javascript in the backend.
+    We also practiced pair programming, scrum, Feature-Driven Development (FDD), and studied computer science. Ultimately, I want to combine my passion in technology 
+    and love for music by contributing to the development of new software driven technologies such as digital amplifiers, multi-effects pedals, DAW's, etc.
   </p>
+  <h3>Personal<h3/>
   <p>
-    I also love and studied music in college which has allowed me to not only work in many teams over many years but also exposed a natural mentor-like demeanor
-    that often strengthened my teams. The next step in my carreer is to combine my curiosity of technology and passion for music by learning gaming 🎮 engines and 
-    ultimately to writing and implementing music in video games.
+    I love music and studied it in college which has allowed me to not only work in many teams over
+    many years but also exposed a natural mentor-like demeanor that often strengthened my teams. I
+    often find myself teaching junior coworkers or even family members about music or tech. In my free
+    time I like to play my guitar, learn and write songs, watch Marvel movies, and play many types
+    of games! Currently, my favorite Marvel movie is Shang-Chi; show: WandaVision. My
+    "at-the-moment-favorite song" 😃 is Circle With Me by Spiritbox. And my favorite games are
+    Zelda: Ocarina of Time and Resident Evil 2 and 3.
   </p>
 </div>
 
